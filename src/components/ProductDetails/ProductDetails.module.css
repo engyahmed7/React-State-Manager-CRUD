@@ -1,0 +1,42 @@
+.container {
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.imageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.detailsContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.productTitle {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.description {
+    margin-bottom: 20px;
+}
+
+.price {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.buttonGroup {
+    display: flex;
+    gap: 10px;
+}
+
+.addBbutton, .editButton, .deleteButton {
+    width: 150px;
+}
