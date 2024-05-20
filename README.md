@@ -2,12 +2,12 @@
 
 ## Overview
 
-Welcome to the React State Manager CRUD with Shopping Cart project! This application is a sophisticated full-stack web solution designed to manage product data using React's state management capabilities. It leverages Redux and Context API for state management and seamlessly integrates a shopping cart feature for an enhanced user experience.
+Welcome to the React State Manager CRUD with Shopping Cart project! This application is designed to manage product data using React's state management capabilities. It leverages Redux and Context API for state management and seamlessly integrates a shopping cart feature for an enhanced user experience.
 
 ### Key Features
 
 - **Robust CRUD Operations**: Perform Create, Read, Update, and Delete operations on product data with ease.
-- **Shopping Cart **: Seamlessly add products to the cart.
+- **Shopping Cart**: Seamlessly add products to the cart.
 - **Responsive Design**: Enjoy a seamless experience across various devices and screen sizes.
 
 ## Getting Started
